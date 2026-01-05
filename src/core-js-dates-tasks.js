@@ -205,8 +205,7 @@ function getCountWeekendsInMonth(month, year) {
  * Date(2024, 0, 31) => 5
  * Date(2024, 1, 23) => 8
  */
-function getWeekNumberByDate(date) {
-}
+function getWeekNumberByDate(/* date */) {}
 
 /**
  * Returns the date of the next Friday the 13th from a given date.
